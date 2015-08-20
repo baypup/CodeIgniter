@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contributing to CodeIgniter
 
 
@@ -93,3 +94,23 @@ If you are using command-line you can do the following:
 3. `git push origin develop`
 
 Now your fork is up to date. This should be done regularly, or before you send a pull request at least.
+=======
+Contributing to CodeIgniter Ion Auth.
+===================================
+
+First of all thanks for your interest. But contributing to this repo has some requirements.
+Those requirements are listed below.
+
+### Issue tracker. 
+The issue tracker is the preferred channel for bug reports, features requests and submitting pull requests, but please respect the following restrictions:
+
+- Please do not use the issue tracker for personal support requests.
+- Please do not derail or troll issues. Keep the discussion on topic and respect the opinions of others.
+
+### Requirements
+- Make sure your `PHP`Code is following the Codeigniter standards. 
+- Add spacings between the php begin and end tag. 
+- Comments should also have a space between `//` and the begin of the comment. like `// Example`.
+
+
+>>>>>>> 9f30be251a6d7a84a790f31ecbc3d24817f747d0
